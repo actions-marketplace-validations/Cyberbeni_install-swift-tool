@@ -6,6 +6,7 @@
 		"rootDir": "./src",
 		"declaration": false,
 		"rewriteRelativeImportExtensions": true,
+		"types": ["*"],
 
 		// Lint:
 		"strict": true,
